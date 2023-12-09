@@ -591,9 +591,9 @@ MossdeepCity_Gym_Text_RegisteredTateAndLiza:
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
 	.string "TATE: Looks like the bond between you\n"
-	.string "and your POKéMON is far stronger than\l"
+	.string "and your POKéMON is far weaker than\l"
 	.string "the bond that we share as twins.\p"
-	.string "LIZA: You will become even stronger!\n"
+	.string "LIZA: How'd you win?\n"
 	.string "We've battled you, so we know.$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:

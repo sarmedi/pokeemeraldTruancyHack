@@ -242,10 +242,10 @@ FortreeCity_Gym_Text_WinonaIntro:
 	.string "of BIRD POKéMON and I!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Never before have I seen a TRAINER\n"
+	.string "Never have I seen a TRAINER\n"
 	.string "command POKéMON with more grace\l"
 	.string "than I…\p"
-	.string "In recognition of your prowess,\n"
+	.string "I still haven't.  You got lucky.\n"
 	.string "I present to you this GYM BADGE.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
@@ -254,12 +254,11 @@ FortreeCity_Gym_Text_ReceivedFeatherBadge:
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
 	.string "With the FEATHER BADGE, all POKéMON up\n"
-	.string "to LV 70, even those received through\l"
-	.string "trades, will obey your every command.\p"
+	.string "to LV 70 will obey\l"
+	.string "For you though? LV 32.\p"
 	.string "You will also be able to use\n"
 	.string "the HM move FLY outside of battle.\p"
-	.string "And this…\n"
-	.string "This is a gift from me.$"
+	.string "And this…$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
 	.string "TM40 contains AERIAL ACE.\p"
@@ -288,9 +287,7 @@ FortreeCity_Gym_Text_WinonaPreRematch:
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"
-	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
+	.string "Please, allow me to see your idiocy\n"
 	.string "at full flight!$"
 
 FortreeCity_Gym_Text_WinonaRematchDefeat:

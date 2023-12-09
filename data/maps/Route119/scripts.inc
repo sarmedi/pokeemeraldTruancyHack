@@ -489,14 +489,12 @@ Route119_Text_MayIntro:
 
 Route119_Text_MayDefeat:
 	.string "Achah!\n"
-	.string "{PLAYER}{KUN}, you're strong!\p"
-	.string "I was worried that you might be\n"
-	.string "struggling with your training.$"
+	.string "{PLAYER}{KUN}, you still suck!\p"
+	.string "I'm worried that your\n"
+	.string "luck will run out.$"
 
 Route119_Text_MayPresentForYou:
-	.string "MAY: But I had absolutely nothing to\n"
-	.string "worry about! Keep it up!\p"
-	.string "And, here! I have a present for you.$"
+	.string "Here. Leftovers for you.$"
 
 Route119_Text_MayExplainFly:
 	.string "MAY: Use FLY, and your POKéMON will\n"
@@ -514,7 +512,6 @@ Route119_Text_MayExplainFly:
 Route119_Text_BrendanIntro:
 	.string "BRENDAN: {PLAYER}! So this is where\n"
 	.string "you've been looking for POKéMON?\p"
-	.string "Let me see how good you got.\n"
 	.string "I'll test you!\p"
 	.string "Now!\n"
 	.string "It's a battle, so battle!$"
@@ -524,8 +521,8 @@ Route119_Text_BrendanDefeat:
 	.string "You've gotten pretty darn decent.$"
 
 Route119_Text_BrendanIllGiveYouThis:
-	.string "BRENDAN: I'd say you're good enough\n"
-	.string "to search for POKéMON anywhere.\p"
+	.string "BRENDAN: I'd say you need this\n"
+	.string "to run home.\p"
 	.string "Here, I'll give you this.\n"
 	.string "Try it out.$"
 

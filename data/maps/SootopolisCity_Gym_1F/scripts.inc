@@ -220,15 +220,14 @@ SootopolisCity_Gym_1F_Text_JuanIntro:
 SootopolisCity_Gym_1F_Text_JuanDefeat:
 	.string "Ahahaha, excellent!\n"
 	.string "Very well, you are the winner.\p"
-	.string "From you, I sense the brilliant shine\n"
-	.string "of skill that will overcome all.\p"
+	.string "From you, I sense true luck\n"
+	.string "to overcome your idiocy.\p"
 	.string "However, compared with me or even\n"
 	.string "WALLACE, you are lacking in elegance.\p"
 	.string "Perhaps I should make you a loan\n"
 	.string "of my outfit?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Hahaha, I merely jest!\p"
 	.string "Rather than my clothes, I shall reward\n"
 	.string "you with this, the RAIN BADGE!$"
 
@@ -239,7 +238,7 @@ SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
 SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
 	.string "Having the RAIN BADGE shall assure you\n"
 	.string "the full obedience of all your POKéMON\l"
-	.string "to your every command.\p"
+	.string "Maybe. IDK.  No one really respects you.\p"
 	.string "The RAIN BADGE also allows the use\n"
 	.string "of the HM move WATERFALL to scale\l"
 	.string "walls of cascading water.\p"

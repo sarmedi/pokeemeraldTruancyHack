@@ -187,13 +187,12 @@ RustboroCity_Gym_Text_RoxanneIntro:
 RustboroCity_Gym_Text_RoxanneDefeat:
 	.string "So…\n"
 	.string "I lost…\p"
-	.string "It seems that I still have much more\n"
-	.string "to learn…\p"
-	.string "I understand.\p"
+	.string "Idon't know how I lost\p"
+	.string "You're not good.\p"
 	.string "The POKéMON LEAGUE's rules state\n"
 	.string "that TRAINERS are to be given this\l"
 	.string "if they defeat a GYM LEADER.\p"
-	.string "Please accept the official POKéMON\n"
+	.string "Take the official POKéMON\n"
 	.string "LEAGUE STONE BADGE.$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
@@ -205,7 +204,7 @@ RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "power of your POKéMON.\p"
 	.string "It also enables them to use the HM move\n"
 	.string "CUT outside of battle.\p"
-	.string "Please take this with you, too.$"
+	.string "Take this with you, too.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
 	.string "That TECHNICAL MACHINE, TM39,\n"
@@ -218,10 +217,10 @@ RustboroCity_Gym_Text_ExplainRockTomb:
 	.string "so think before you use it.$"
 
 RustboroCity_Gym_Text_RoxannePostBattle:
-	.string "Since you are so strong, you should\n"
-	.string "challenge other GYM LEADERS.\p"
-	.string "By battling many TRAINERS, you should\n"
-	.string "learn many things.$"
+	.string "I don't know how I lost\n"
+	.string "Go Away.\p"
+	.string "I'm ashamed of myself.\n"
+	.string "I'm better.$"
 
 RustboroCity_Gym_Text_GymStatue:
 	.string "RUSTBORO CITY POKéMON GYM$"
@@ -236,13 +235,12 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … Beep!\p"
 	.string "ROXANNE: Oh, hello, {PLAYER}?\n"
 	.string "This is ROXANNE of RUSTBORO CITY.\p"
-	.string "I heard from BRAWLY that you're\n"
-	.string "moving up through the ranks of\l"
-	.string "TRAINERS at an incredible clip.\p"
+	.string "I heard from BRAWLY that you\n"
+	.string "somehow beat him.\p"
 	.string "Well, I'd rather not think that\n"
 	.string "I can't beat you.\p"
-	.string "I promise, I will shape up my GYM\n"
-	.string "so that you may challenge us again.\p"
+	.string "I promise, I won't lose\n"
+	.string "to an idiot like you again.\p"
 	.string "I hope you'll be looking forward to\n"
 	.string "that occasion as much as me!\p"
 	.string "… … … … … …\n"
@@ -257,8 +255,8 @@ RustboroCity_Gym_Text_RoxannePreRematch:
 	.string "I'm ROXANNE, the GYM LEADER here.\p"
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"
-	.string "I would like to see how much better\n"
-	.string "we've become. Let us battle!$"
+	.string "I would like to see if you've kept up.\n"
+	.string "Let us battle!$"
 
 RustboroCity_Gym_Text_RoxanneRematchDefeat:
 	.string "Grr…\n"

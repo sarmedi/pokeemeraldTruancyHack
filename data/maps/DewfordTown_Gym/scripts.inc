@@ -389,9 +389,9 @@ DewfordTown_Gym_Text_BrawlyIntro:
 	.string "Let me see what you're made of!$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
+	.string "Whoah, wow! I can't believe\n"
+	.string "that I lost!\p"
+	.string "You're an idiot!\p"
 	.string "Okay, you've got me.\n"
 	.string "Take this GYM BADGE!$"
 
@@ -419,9 +419,8 @@ DewfordTown_Gym_Text_RegisteredBrawly:
 	.string "in the POKéNAV.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
-	.string "I can see your talent becoming a giant\n"
-	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "I don't know how a bumbling oaf\n"
+	.string "like you beat me...$"
 
 DewfordTown_Gym_Text_GymStatue:
 	.string "DEWFORD TOWN POKéMON GYM$"
@@ -436,8 +435,8 @@ DewfordTown_Gym_Text_BrawlyPreRematch:
 	.string "always returns to the shore.\p"
 	.string "A giant wave of a talent like you…\n"
 	.string "I knew you would return!\p"
-	.string "Show me how much higher\n"
-	.string "you've gone!$"
+	.string "Show me if you're\n"
+	.string "just as lucky!$"
 
 DewfordTown_Gym_Text_BrawlyRematchDefeat:
 	.string "Wow!\n"

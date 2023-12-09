@@ -767,8 +767,8 @@ Route110_Text_MayLetsBattle:
 	.string "How about a little battle?$"
 
 Route110_Text_MayDefeated:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Hmm...\n"
+	.string "You're better than I expected.$"
 
 Route110_Text_MayTakeThis:
 	.string "MAY: {PLAYER}{KUN}, you've been busy\n"
@@ -794,7 +794,7 @@ Route110_Text_BrendanLetsBattle:
 
 Route110_Text_BrendanDefeated:
 	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "You're better than I expected.$"
 
 Route110_Text_BrendanTakeThis:
 	.string "BRENDAN: {PLAYER}, you've trained\n"

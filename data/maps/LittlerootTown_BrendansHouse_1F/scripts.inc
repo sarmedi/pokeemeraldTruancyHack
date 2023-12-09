@@ -308,7 +308,8 @@ PlayersHouse_1F_Text_ArentYouInterestedInRoom:
 
 PlayersHouse_1F_Text_GoSetTheClock:
 	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "Go set the clock in your room, honey.\n"
+	.string "You can handle that right?$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
 	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
@@ -320,8 +321,7 @@ PlayersHouse_1F_Text_MaybeDadWillBeOn:
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
 	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "What did they say?$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
 	.string "Oh, yes.\n"
@@ -351,7 +351,8 @@ PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
 	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
+	.string "You can always come home.\n"
+	.string "You won't survive out there.\p"
 	.string "Go for it, honey!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
@@ -393,9 +394,9 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "DAD: Hm?\p"
 	.string "Hey, it's {PLAYER}!\p"
 	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
+	.string "but you look…weaker, somehow.\p"
 	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
+	.string "Your old man is always better!\p"
 	.string "Oh, yes, I have something for you.\n"
 	.string "This came to you from someone named\l"
 	.string "MR. BRINEY.$"

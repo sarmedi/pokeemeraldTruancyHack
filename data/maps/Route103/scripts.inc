@@ -302,15 +302,15 @@ Route103_Text_MayLetsBattle:
 	.string "a TRAINER is like.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "Wow! That's a surprise!\n"
+	.string "{PLAYER}{KUN}, how'd you win?$"
 
 Route103_Text_MayTimeToHeadBack:
 	.string "MAY: I think I know why my dad has\n"
 	.string "an eye out for you now.\p"
 	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
+	.string "but it doesn't respect you.\p"
+	.string "You won't be able to befriend any\n"
 	.string "kind of POKéMON easily.\p"
 	.string "Well, it's time to head back to\n"
 	.string "the LAB.$"
@@ -331,14 +331,14 @@ Route103_Text_BrendanDefeated:
 	.string "Huh, {PLAYER}, you're not too shabby.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+	.string "BRENDAN: I think I know why my dad has\n"
+	.string "an eye out for you now.\p"
+	.string "I mean, you just got that POKéMON,\n"
+	.string "but it doesn't respect you.\p"
+	.string "You won't be able to befriend any\n"
+	.string "kind of POKéMON easily.\p"
+	.string "Well, it's time to head back to\n"
+	.string "the LAB.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
 	.string "My POKéMON is staggeringly tired…\n"

@@ -1152,8 +1152,7 @@ PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
 	.string "Hm… Then I guess you're going to\n"
 	.string "become a TRAINER, {PLAYER}.\p"
 	.string "Oh well!\n"
-	.string "You've never been as good\n"
-	.string "as me.$"
+	.string "You'll suck.$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
 	.string "Um… I…\n"
@@ -1263,13 +1262,13 @@ PetalburgCity_Gym_Text_NormanIntro:
 	.string "Fine, as I promised, we will have\n"
 	.string "a POKéMON battle.\p"
 	.string "{PLAYER}…\p"
-	.string "I'm so happy that I can have\n"
-	.string "a real battle with my own child.\p"
+	.string "I can't believe\n"
+	.string "that you could achieve that.\p"
 	.string "But, a battle is a battle!\p"
 	.string "I will do everything in my power as\n"
 	.string "a GYM LEADER to win.\p"
 	.string "{PLAYER}, you'd better give it your\n"
-	.string "best shot, too!$"
+	.string "best shot, too! If you even can.$"
 
 PetalburgCity_Gym_Text_NormanDefeat:
 	.string "…\p"
@@ -1301,9 +1300,7 @@ PetalburgCity_Gym_Text_ExplainFacade:
 
 PetalburgCity_Gym_Text_DadHappyAndSad:
 	.string "DAD: As the GYM LEADER, I can't\n"
-	.string "express how upset I am…\p"
-	.string "But as a father, it makes me both\n"
-	.string "happy and a little sad. It's odd…$"
+	.string "express how upset I am…$"
 
 PetalburgCity_Gym_Text_PleaseComeWithMe:
 	.string "Ah, there you are, {PLAYER}{KUN}!\p"
