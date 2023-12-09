@@ -2196,7 +2196,7 @@ void CreateMon(struct Pokemon *mon, u16 species, u8 level, u8 fixedIV, u8 hasFix
 {
     u32 mail;
     ZeroMonData(mon);
-    CreateBoxMon(&mon->box, species, level, fixedIV, hasFixedPersonality, fixedPersonality, OT_ID_PRESET, 61226);
+    CreateBoxMon(&mon->box, species, level, fixedIV, hasFixedPersonality, fixedPersonality, otIdType, fixedOtId);
     SetMonData(mon, MON_DATA_LEVEL, &level);
     mail = MAIL_NONE;
     SetMonData(mon, MON_DATA_MAIL, &mail);
@@ -2230,11 +2230,17 @@ void CreateBoxMon(struct BoxPokemon *boxMon, u16 species, u8 level, u8 fixedIV, 
             shinyValue = GET_SHINY_VALUE(value, personality);
         } while (shinyValue < SHINY_ODDS);
     }
-    else 
+    else if (otIdType == OT_ID_PRESET)
     {
-        value = 61226;
+        value = fixedOtId;
     }
-    
+    else // Player is the OT
+    {
+        value = gSaveBlock2Ptr->playerTrainerId[0]
+              | (gSaveBlock2Ptr->playerTrainerId[1] << 8)
+              | (gSaveBlock2Ptr->playerTrainerId[2] << 16)
+              | (gSaveBlock2Ptr->playerTrainerId[3] << 24);
+    }
 
     SetBoxMonData(boxMon, MON_DATA_OT_ID, &value);
 

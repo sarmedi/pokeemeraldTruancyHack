@@ -3916,8 +3916,6 @@ u8 IsMonDisobedient(void)
             return 0;
         if (gBattleTypeFlags & BATTLE_TYPE_RECORDED)
             return 0;
-        if (!IsOtherTrainer(gBattleMons[gBattlerAttacker].otId, gBattleMons[gBattlerAttacker].otName))
-            return 0;
         
 
         obedienceLevel = 8;
