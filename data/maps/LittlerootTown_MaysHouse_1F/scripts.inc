@@ -328,8 +328,8 @@ RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
 	.string "neighbor! Hi!\p"
 	.string "We have a {STR_VAR_1} about the same\n"
 	.string "age as you.\p"
-	.string "Our {STR_VAR_1} was excited about making\n"
-	.string "a new friend.\p"
+	.string "Our {STR_VAR_1} was not excited about\n"
+	.string "meeting a loser.\p"
 	.string "Our {STR_VAR_1} is upstairs, I think.$"
 
 RivalsHouse_1F_Text_LikeChildLikeFather:

@@ -1150,9 +1150,10 @@ PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
 	.string "Oh, I see.\n"
 	.string "You're with your POKéMON.\p"
 	.string "Hm… Then I guess you're going to\n"
-	.string "become a TRAINER like me, {PLAYER}.\p"
-	.string "That's great news!\n"
-	.string "I'll be looking forward to it!$"
+	.string "become a TRAINER, {PLAYER}.\p"
+	.string "Oh well!\n"
+	.string "You've never been as good\n"
+	.string "as me.$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
 	.string "Um… I…\n"
